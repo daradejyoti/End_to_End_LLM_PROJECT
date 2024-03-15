@@ -1,0 +1,10 @@
+OpenAI
+langchain
+python-dotenv
+streamlit
+unstructured
+tiktoken
+libmagic
+python-magic
+python-magic-bin
+faiss-cpu
